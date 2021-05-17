@@ -1,0 +1,11 @@
+https://github.com/karunraju/VQA
+
+https://github.com/WillSuen/VQA
+
+https://github.com/ritvikshrivastava/ADL_VQA_Tensorflow2
+
+https://github.com/Heronalps/Visual_QA_Attn
+
+https://github.com/jiasenlu/HieCoAttenVQA
+
+https://arxiv.org/abs/1606.00061
